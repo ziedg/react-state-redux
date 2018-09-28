@@ -1,8 +1,3 @@
-# react-state-exemple
-
-to run the example u have to put
-
-....  yarn  run dev-server
-          ..or..
-...  npm    run dev-server
-# react-state-redux
+#### the goal of this app is the auto configuaration of webpack
+#### and the use of redux to handle the state . its just the integration of redux stage managment
+#### framwork
